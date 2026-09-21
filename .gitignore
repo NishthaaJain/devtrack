@@ -1,0 +1,20 @@
+# ---- Python / FastAPI backend ----
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# SQLite database (your actual data — don't commit this)
+*.db
+
+# ---- Node / React frontend ----
+node_modules/
+dist/
+.vite/
+
+# ---- Editor / OS junk ----
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
